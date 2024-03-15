@@ -1,12 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaston+Francois!;" />
-</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=23B33F&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Gaston+Fran%C3%A7ois!)](https://git.io/typing-svg)
 
 <h1 align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&color=238D42&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Gaston+Francois!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&color=238D42&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Gaston+Francois!" alt="Typing SVG" />
+    </a>
 </h1>
 
 
