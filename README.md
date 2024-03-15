@@ -4,7 +4,7 @@
 ### 🖥️ Skills
 <p >
   <a>
-    <img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,docker,js,react,postgres,git,latex" />
+    <img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,docker,js,react,postgres,git,latex,yolo" />
   </a>
 </p>
 
