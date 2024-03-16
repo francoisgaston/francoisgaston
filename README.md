@@ -4,27 +4,22 @@
     </a>
 </h1>
 
-### About me
+## 🚶About me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoisgaston&layout=pie)
 
-### 📗 Proyects
 
+
+## 📗 Proyects
 <p align="left">
-    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects">
+    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=L_programming_language&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects">
     <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Artificial_Intelligence&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
 </p>
 
 
-### ⚒️ Skills
-<p >
-  <a>
-    <img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,docker,js,react,postgres,mongodb,git,latex,nodejs,obsidian,tensorflow,ubuntu" />
-  </a>
-</p>
-
-### 📞 Connect with me:
-<p align="left">
-    <a href="https://www.linkedin.com/in/gastonfrancois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcosdedeu" height="30" width="30" /></a>
-    <a href="https://www.instagram.com/gaston_francois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcosdedeu" height="30" width="30" /></a>
-    <a href="https://github.com/francoisgaston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marcosdedeu" height="30" width="30" /></a>
-  </p>
+## ⚒️ Skills
+<a>
+<img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,docker,js,react,postgres,mongodb,git,latex,nodejs,obsidian,tensorflow,ubuntu" />
+</a>
 
