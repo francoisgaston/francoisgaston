@@ -10,15 +10,15 @@ Hello everyone! I'm Gaston Francois, a computer engineering student at the Bueno
 
 ## 📗 Proyects
 <p align="left">
-    <a href="https://github.com/francoisgaston/Poolit"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Poolit&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="Pepe"></a>
-    <a href="https://github.com/francoisgaston/L_Language"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=L_Language&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects">
-    <a href="https://github.com/francoisgaston/ChaOS"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="Neural-Network-Proyects"></a>
-    <a href="https://github.com/francoisgaston/Artificial_Intelligence"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Artificial_Intelligence&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/francoisgaston/Poolit"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Poolit&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="Poolit"></a>
+    <a href="https://github.com/francoisgaston/L_Language"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=L_Language&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="L_Language">
+    <a href="https://github.com/francoisgaston/ChaOS"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="ChaOS"></a>
+    <a href="https://github.com/francoisgaston/Artificial_Intelligence"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Artificial_Intelligence&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="Artificial_Intelligence"></a>
 </p>
 
 
 ## ⚒️ Skills
 <a>
-<img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,docker,js,react,postgres,mongodb,git,latex,nodejs,obsidian,tensorflow,ubuntu" />
+<img width="500" height="50" src="https://skillicons.dev/icons?i=python,java,c,docker,js,nodejs,react,postgres,mongodb,obsidian,tensorflow,ubuntu,git,latex" />
 </a>
 
