@@ -5,16 +5,15 @@
 </h1>
 
 ## 🚶About me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoisgaston&layout=pie)
-
+Hello everyone! I'm Gaston Francois, a computer engineering student at the Buenos Aires Institute of Technology. Currently, I'm interested in Machine Learning projects, but always open to challenges that allow me to continue growing professionally.
 
 
 ## 📗 Proyects
 <p align="left">
-    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=L_programming_language&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects">
-    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
-    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
-    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Artificial_Intelligence&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/francoisgaston/Poolit"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Poolit&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/francoisgaston/L_programming_language"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=L_programming_language&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects">
+    <a href="https://github.com/francoisgaston/ChaOS"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/francoisgaston/Artificial_Intelligence"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Artificial_Intelligence&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="Neural-Network-Proyects"></a>
 </p>
 
 
