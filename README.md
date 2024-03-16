@@ -8,7 +8,7 @@
 Hello everyone! I'm Gaston Francois, a computer engineering student at the Buenos Aires Institute of Technology. Currently, I'm interested in Machine Learning projects, but always open to challenges that allow me to continue growing professionally.
 
 
-## 📗 Proyects
+## 📗 Projects
 <p align="left">
     <a href="https://github.com/francoisgaston/Poolit"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=Poolit&theme=shadow_green&text_color=000000&&bg_color=EEEEEE&&cache_seconds=10" alt="Poolit"></a>
     <a href="https://github.com/francoisgaston/L_Language"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=L_Language&theme=shadow_green&text_color=000000&&bg_color=EEEEEE" alt="L_Language">
