@@ -7,7 +7,7 @@
 ### About me
 
 <p align="left">
-    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=gastonfrancois&repo=ChaOS&theme=dark&icon_color=FFFFFF&hide_border=true" alt="Neural-Network-Proyects"></a>
+    <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=francoisgaston&repo=ChaOS&theme=dark&icon_color=FFFFFF&hide_border=true" alt="Neural-Network-Proyects"></a>
 </p>
 
 
